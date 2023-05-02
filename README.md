@@ -1,4 +1,4 @@
-#  Making Secure Development Practices Fun and Engaging has been accepted
+#  Making Secure Development Practices Fun and Engaging
 
 # Workshop Goals
 Secure Code Warrior Survey Finds 86% of Developers Do Not View Application Security As a Top Priority. Research by Osterman found that 81% of developers admit to knowingly releasing vulnerable applications.
