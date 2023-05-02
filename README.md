@@ -23,6 +23,4 @@ Gamification of Secure Development Practices: To make the workshop more engaging
 
 By the end of the workshop, participants will have a better understanding of secure development practices and how to teach the concepts to encourage a strong security culture within engineering teams. They will also have gained practical experience through the gamification activities, which will help them to engage software engineers and bring the topic of secure software development to life!
 
-> Jessie Auguste
-> Backend Software Engineer & Co-founder
 > Jessie is an award winning Software Engineer at CybSafe, Co-Founder and Co-host of Glowing in Tech. She is a key part of the Leadership Team for Coding Black Females. She’s delivered technical talks for companies including LeadDev, codebar, General Assembly, Docker, Girls into Coding & Daily Dev. She has instructed and delivered courses on behalf of companies such as Love Circular, CybSafe, Coding Black Females and UBS.
