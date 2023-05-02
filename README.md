@@ -21,7 +21,7 @@ Secure Software Development Lifecycle: The workshop will cover the different pha
 
 Gamification of Secure Development Practices: To make the workshop more engaging, participants will be encouraged to participate in gamification activities, such as challenges and competitions. This will help them apply the concepts they have learned and make the learning experience more enjoyable.
 
-By the end of the workshop, participants will have a better understanding of secure development practices and how to apply them in their code. They will also have gained practical experience through the gamification activities, which will help them to retain the knowledge they have learned.
+By the end of the workshop, participants will have a better understanding of secure development practices and how to teach the concepts to encourage a strong security culture within engineering teams. They will also have gained practical experience through the gamification activities, which will help them to engage software engineers and bring the topic of secure software development to life!
 
 > Jessie Auguste
 > Backend Software Engineer & Co-founder
