@@ -1,11 +1,13 @@
-# Goals of the Workshop
+#  Making Secure Development Practices Fun and Engaging has been accepted
+
+# Workshop Goals
 Secure Code Warrior Survey Finds 86% of Developers Do Not View Application Security As a Top Priority. Research by Osterman found that 81% of developers admit to knowingly releasing vulnerable applications.
 
-How do we provide resources and teach in a way that improves our security culture and makes it more engaging, rather than a difficult chore. 
+How do we provide resources and teach in a way that improves our security culture and makes it more engaging, rather than a difficult chore?
 
 The workshop aims to gather together researchers and practitioners to discuss experiences in secure software development and promote a secure development culture. The goal of this workshop is to help software developers learn and practice secure development practices in a fun and engaging way. By the end of the workshop, participants should have a better understanding of common security vulnerabilities and how to avoid them in their code.
 
-Topics of Interest:
+# Topics 
 
 Introduction to Secure Development Practices: The workshop will start with an introduction to the importance of secure development practices, the consequences of security vulnerabilities, and the basics of secure coding.
 
