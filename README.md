@@ -1,5 +1,8 @@
 #  Making Secure Development Practices Fun and Engaging
-
+> This workshop will take place at the 35th IEEE International Conference on Software Engineering Education and Training (CSEE2023. Homepage:
+https://conf.researchr.org/home/cseet-2023
+CSEE2023 Workshops Homepage
+https://conf.researchr.org/track/cseet-2023/cseet-workshop
 # Workshop Goals
 Secure Code Warrior Survey Finds 86% of Developers Do Not View Application Security As a Top Priority. Research by Osterman found that 81% of developers admit to knowingly releasing vulnerable applications.
 
